@@ -14,4 +14,4 @@ function myArrayFunction(arr) {
 }
 
 console.log(myArrayFunction());
-module.exports = myArrayFunction;
+module.exports = myArrayFunction
